@@ -20,6 +20,7 @@ class ViewController: UIViewController {
 
     @IBAction func clickMe(_ sender: Any) {
         print("Again some changes are made")
+        print("Try to add on remotes")
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
