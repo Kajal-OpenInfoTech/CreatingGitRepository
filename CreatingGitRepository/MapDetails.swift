@@ -10,4 +10,8 @@ import UIKit
 
 class MapDetails: NSObject {
 
+    func SayHello()
+    {
+        print("Printing Hello")
+    }
 }
