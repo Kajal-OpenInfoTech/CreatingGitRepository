@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func clickMe(_ sender: Any) {
-        print("You finished")
+        print("Again some changes are made")
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
