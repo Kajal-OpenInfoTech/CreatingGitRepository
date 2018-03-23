@@ -13,5 +13,6 @@ class firstFile: NSObject {
     func DoSomething()
     {
         print("Add File for change the name")
+        print("now in master")
     }
 }
