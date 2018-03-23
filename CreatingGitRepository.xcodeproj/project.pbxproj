@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		892AA67D2064DC280096BE9D /* firstFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892AA67C2064DC280096BE9D /* firstFile.swift */; };
 		897103492063BFB300CAE3CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897103482063BFB300CAE3CD /* AppDelegate.swift */; };
 		8971034B2063BFB300CAE3CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8971034A2063BFB300CAE3CD /* ViewController.swift */; };
 		8971034E2063BFB300CAE3CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8971034C2063BFB300CAE3CD /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		892AA67C2064DC280096BE9D /* firstFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstFile.swift; sourceTree = "<group>"; };
 		897103452063BFB300CAE3CD /* CreatingGitRepository.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreatingGitRepository.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		897103482063BFB300CAE3CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8971034A2063BFB300CAE3CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				897103512063BFB300CAE3CD /* LaunchScreen.storyboard */,
 				897103542063BFB300CAE3CD /* Info.plist */,
 				89DB212B2063C813006D9729 /* MapDetails.swift */,
+				892AA67C2064DC280096BE9D /* firstFile.swift */,
 			);
 			path = CreatingGitRepository;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				8971034B2063BFB300CAE3CD /* ViewController.swift in Sources */,
 				897103492063BFB300CAE3CD /* AppDelegate.swift in Sources */,
+				892AA67D2064DC280096BE9D /* firstFile.swift in Sources */,
 				89DB212C2063C813006D9729 /* MapDetails.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
