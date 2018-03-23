@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("This is Git Repository")
+        print("pull data from git repository in swift")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
